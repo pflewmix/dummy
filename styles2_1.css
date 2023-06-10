@@ -1,0 +1,16 @@
+.container {
+    border: 5px solid brown;
+    display: flex;
+  }
+  
+  /* this selector selects all divs inside of .flex-container */
+  .container > div {
+    background: peachpuff;
+    flex: 1;
+    /*flex-grow, flex-shrink, flex-basis */
+  }
+
+  .home .logout {
+    flex: 2;
+  }
+
