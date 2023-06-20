@@ -1,0 +1,75 @@
+body {
+    
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  border: 2px solid navy;
+  background-color: aliceblue;
+  
+}
+
+h1 {
+  color: navy;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  text-shadow: 16px;
+}
+
+/*.logout {
+  background-color: rgb(41, 41, 100);
+  align-self: flex-start;
+ }
+
+ .home {
+  align-self: flex-end;
+ }*/
+
+ #search {
+  color: blue;
+  font-family: 'Courier New', Courier, monospace;
+ }
+
+ button{
+  background-color: navy;
+  color: white;
+ }
+
+ p, label {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color:navy;
+ }
+
+ .square{
+  margin-top: 30px;
+ }
+
+ .nav ul {
+  list-style-type: none;
+  display: flex;
+  gap: 32px;
+  justify-content: space-around;
+ }
+
+ .nav {
+  font-size: 18px;
+ }
+
+ a {
+  text-decoration: none;
+  color: navy;
+ }
+
+ .search {
+  margin-right: 32px;
+ }
+
+ .nv ul {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+  justify-content: flex-start;
+ }
