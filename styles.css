@@ -7,11 +7,12 @@ body {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  border: 5px solid red;
+  border: 2px solid navy;
+  background-color: aliceblue;
 }
 
 h1 {
-  color: blue;
+  color: navy;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 60px;
   text-shadow: 16px;
@@ -28,14 +29,16 @@ h1 {
 
  #search {
   color: blue;
+  font-family: 'Courier New', Courier, monospace;
  }
 
  button{
-  background-color: blue;
+  background-color: navy;
   color: white;
  }
 
- p {
+ p, label {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
+  color:navy;
  }
