@@ -1,3 +1,5 @@
+//java code for game cheatcodes site
+
 const systems = ["Nintendo GameCube", "Sony Playstation", 
     "Sony Playstation 2", "Gameboy Advance", "Xbox"];
 

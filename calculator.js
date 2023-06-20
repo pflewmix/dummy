@@ -1,3 +1,5 @@
+//java code for calculator
+
 function add7() {
     return number + 7;
 }

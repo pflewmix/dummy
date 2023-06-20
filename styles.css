@@ -36,3 +36,12 @@ div {
  .home {
   align-self: flex-end;
  }*/
+
+ #search {
+  color: blue;
+ }
+
+ button{
+  background-color: blue;
+  color: white;
+ }
