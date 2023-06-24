@@ -102,10 +102,22 @@ h1 {
 .hero {
   display: flex;
   justify-content: center;
+  background-color: black;
 }
-.hero img {
+.hero #video_container {
+  background-image: url("../images/dk_family.jpeg");
+  background-size: contain;
+  
+  
+  
   height: 520px;
   width: 1900px;
+  display: flex;
+  justify-content: center;
+}
+
+iframe {
+  align-self: center;
 }
 
 .shape {
