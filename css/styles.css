@@ -2,6 +2,10 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+body {
+  background-color: whitesmoke;
+}
+
 .logo {
   display: flex;
   align-items: center;
@@ -93,4 +97,17 @@ h1 {
 
 .footer a {
   color: white;
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+}
+.hero img {
+  height: 520px;
+  width: 1900px;
+}
+
+.shape {
+  border: 3px solid rgb(58, 84, 146);
 }
