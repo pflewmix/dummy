@@ -107,9 +107,6 @@ h1 {
 .hero #video_container {
   background-image: url("../images/dk_family.jpeg");
   background-size: contain;
-  
-  
-  
   height: 520px;
   width: 1900px;
   display: flex;
