@@ -90,6 +90,9 @@ h1 {
   margin: 10px 0px;
 }
 
+td a {
+  color:rgb(45, 55, 80)
+}
 #list {
   margin-left: 30px;
 }
