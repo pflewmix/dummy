@@ -90,6 +90,10 @@ h1 {
   margin: 10px 0px;
 }
 
+#titles table {
+  margin-right: 60px;
+}
+
 td a {
   color:rgb(45, 55, 80)
 }
